@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Site URL: [https://pricegridcomponent.netlify.app](https://pricegridcomponent.netlify.app)
 
 ## My process
 
