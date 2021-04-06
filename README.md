@@ -12,6 +12,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+  - [Links](#links)
 
 ## Overview
 
@@ -43,6 +44,8 @@ Users should be able to:
 I intend to do one or two more projects for study purposes, soon after I will focus on javascript to improve my programming skills.
 
 ## Author
+
+### Links
 
 - Frontend Mentor - [ezequielsan](https://www.frontendmentor.io/profile/ezequielsan)
 - Instagram - [ezequielmelo.dev](https://www.instagram.com/ezequielmelo.dev/)
